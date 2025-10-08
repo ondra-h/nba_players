@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">NBA</string>
+
+    <string name="title_players">NBA Players</string>
+    <string name="title_player_detail">%1$s %2$s</string>
+    <string name="title_team_detail">%1$s</string>
+
+    <string name="back">Back</string>
+    <string name="loading">Loading…</string>
+    <string name="error_loading">Loading failed</string>
+    <string name="retry">Retry</string>
+    <string name="value_dash">—</string>
+    <string name="separator_bullet"> • </string>
+
+    <string name="label_position">Position</string>
+    <string name="label_team">Team</string>
+    <string name="label_jersey">Jersey</string>
+    <string name="label_height">Height</string>
+    <string name="label_weight">Weight</string>
+    <string name="label_college">College</string>
+    <string name="label_country">Country</string>
+    <string name="label_draft">Draft</string>
+
+    <string name="label_city">City</string>
+    <string name="label_team_abbr">Abbreviation</string>
+    <string name="label_conference">Conference</string>
+    <string name="label_division">Division</string>
+
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_player_photo">Player photo</string>
+    <string name="cd_team_logo">Team logo</string>
+
+    <string name="err_offline_title">No internet connection</string>
+    <string name="err_offline_body">Please check your connection and try again.</string>
+
+    <string name="err_429_title">API rate limit reached</string>
+    <string name="err_429_body">The service is temporarily limiting requests. %1$s</string>
+    <string name="err_429_retry_hint">Try again in about a minute.</string>
+    <string name="err_429_retry_after">Try again in %1$d seconds.</string>
+
+    <string name="err_unknown_title">Something went wrong</string>
+    <string name="err_unknown_body">Please try again.</string>
+
+    <string name="action_retry">Retry</string>
+</resources>
